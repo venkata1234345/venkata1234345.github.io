@@ -22,14 +22,5 @@
         "41:B5:CD:43:4C:81:DA:0E:62:27:20:37:18:58:53:E7:EB:4D:A1:FD:CF:96:F4:AA:F8:0A:1D:05:62:FA:D3:E2"
       ]
     }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.get_login_creds"
-    ],
-    "target": {
-      "namespace": "web",
-      "site": "https://www.myntra.com"
-    }
   }
 ]
